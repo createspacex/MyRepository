@@ -1,4 +1,2 @@
-git tested
-git tested
-git tested2
-pull test
+汉字测试
+master
